@@ -1,0 +1,4 @@
+cmake
+g++
+ninja-build
+libpthread-stubs0-dev
